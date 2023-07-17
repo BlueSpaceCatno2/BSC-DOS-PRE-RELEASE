@@ -44,9 +44,13 @@ ProcessList - Get a list of all processes running on your computer.
 
 
 CoppyFile - Coppies a files contents to another
+
 Delete - Delete a file
+
 DiskSpace - View space on all of your disks
+
 Write - Write a file
+
 Read - Read a file
 
 
