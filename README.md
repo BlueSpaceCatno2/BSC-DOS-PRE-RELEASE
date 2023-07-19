@@ -43,6 +43,10 @@ Message - Send a message (Extremely unstable)
 ProcessList - Get a list of all processes running on your computer.
 
 
+
+File_Mode - engage file mode disables above commands and enables below commands type -close to exit filemode once entered
+
+
 CoppyFile - Coppies a files contents to another
 
 Delete - Delete a file
