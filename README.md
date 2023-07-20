@@ -3,6 +3,9 @@
  
  vist https://github.com/WesternGamer 's page, he helped with a decent ammount of code.
 
+ !!NOTCE!!
+THE FOLLOWING CODE INTENTIONALLY LACKS SOME FEATURES! THIS IS A PRE - RELEASE MODEL!
+
 Instructions:
 on start you can type - help for a list of commands.
 
